@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LX Metro Status</string>
+    <!--Line-->
+    <string name="blue">Azul</string>
+    <string name="yellow">Amarela</string>
+    <string name="red">Vermelha</string>
+    <string name="green">Verde</string>
+    <!--Info-->
+    <string name="lsp">Linha Sem Perturbações</string>
+    <string name="lcp1">Existem perturbações na circulação. O tempo de espera pode ser superior ao normal.</string>
+    <string name="error">Servidor Indisponivel</string>
+    <!--Extras-->
+    <string name="last_updated">Atualizado às: </string>
+    <!--Settings-->
+    <string name="action_settings">Definições</string>
+    <!--Notificações-->
+    <string name="pref_notification">Notificações</string>
+    <string name="pref_notifiedLines">Linhas nas Notificações</string>
+    <string name="pref_notifiedLines_label_yellow">Linha Amarela</string>
+    <string name="pref_notifiedLines_label_blue">Linha Azul</string>
+    <string name="pref_notifiedLines_label_green">Linha Verde </string>
+    <string name="pref_notifiedLines_label_red">Linha Vermelha</string>
+    <!--Values-->
+    <string name="pref_notifiedLines_value_yellow">Amarela</string>
+    <string name="pref_notifiedLines_value_blue">Azul</string>
+    <string name="pref_notifiedLines_value_green">Verde </string>
+    <string name="pref_notifiedLines_value_red">Vermelha</string>
+    <!--Refreshrate-->
+    <string name="refreshRate">Tempo de Atualização</string>
+    <string name="pref_refreshRate_label_1">1 minuto</string>
+    <string name="pref_refreshRate_label_5">5 minutos</string>
+    <string name="pref_refreshRate_label_15">15 minutos</string>
+    <string name="pref_refreshRate_label_30">30 minutos</string>
+    <string name="pref_refreshRate_label_60">1 hora</string>
+    <string name="pref_refreshRate_label_never">Nunca</string>
+    <!--Values-->
+    <string name="pref_refreshRate_value_1">1</string>
+    <string name="pref_refreshRate_value_5">5</string>
+    <string name="pref_refreshRate_value_15">15</string>
+    <string name="pref_refreshRate_value_30">30</string>
+    <string name="pref_refreshRate_value_60">60</string>
+    <string name="pref_refreshRate_value_never">0</string>
+    <string name="pref_refreshRate_default">5</string>
+
+
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LXMeLX Metro StatustroStatus</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="lsp">Good Service</string>
+    <string name="error">Could not connect to the Server</string>
+    <string name="last_updated">Last Update:</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_notification">Notification</string>
+    <string name="pref_notifiedLines">Lines Notification</string>
+    <string name="pref_notifiedLines_label_yellow">Yellow Line</string>
+    <string name="pref_notifiedLines_label_blue">Blue Line</string>
+    <string name="pref_notifiedLines_label_green">Green Line</string>
+    <string name="pref_notifiedLines_label_red">Red Line</string>
+    <string name="pref_notifiedLines_value_yellow">Yellow</string>
+    <string name="pref_notifiedLines_value_blue">Blue</string>
+    <string name="pref_notifiedLines_value_green">Green</string>
+    <string name="pref_notifiedLines_value_red">Red</string>
+    <string name="refreshRate">Refresh Rate</string>
+    <string name="pref_refreshRate_label_1">1 minute</string>
+    <string name="pref_refreshRate_label_5">5 minutes</string>
+    <string name="pref_refreshRate_label_15">15 minutes</string>
+    <string name="pref_refreshRate_label_30">30 minutes</string>
+    <string name="pref_refreshRate_label_60">1 hour</string>
+    <string name="pref_refreshRate_label_never">Never</string>
+    <string name="pref_refreshRate_value_15">1</string>
+    <string name="pref_refreshRate_default">5</string>
+    <string name="pref_refreshRate_value_1">1</string>
+    <string name="pref_refreshRate_value_5">5</string>
+    <string name="pref_refreshRate_value_30">30</string>
+    <string name="pref_refreshRate_value_60">60</string>
+</resources>

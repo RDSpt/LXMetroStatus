@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Notification Label-->
+    <string-array name="pref_notifiedLines_options">
+        <item>@string/pref_notifiedLines_label_yellow</item>
+        <item>@string/pref_notifiedLines_label_blue</item>
+        <item>@string/pref_notifiedLines_label_green</item>
+        <item>@string/pref_notifiedLines_label_red</item>
+    </string-array>
+<!--Notification Value-->
+    <string-array name="pref_notifiedLines_values">
+        <item>@string/pref_notifiedLines_value_yellow</item>
+        <item>@string/pref_notifiedLines_value_blue</item>
+        <item>@string/pref_notifiedLines_value_green</item>
+        <item>@string/pref_notifiedLines_value_red</item>
+    </string-array>
+    <!--Refresh Rate Label-->
+    <string-array name="pref_refreshRate_options">
+        <item>@string/pref_refreshRate_label_1</item>
+        <item>@string/pref_refreshRate_label_5</item>
+        <item>@string/pref_refreshRate_label_15</item>
+        <item>@string/pref_refreshRate_label_30</item>
+        <item>@string/pref_refreshRate_label_60</item>
+        <item>@string/pref_refreshRate_label_never</item>
+    </string-array>
+    <!--Refresh Rate Value-->
+    <string-array name="pref_refreshRate_values">
+        <item>@string/pref_refreshRate_value_1</item>
+        <item>@string/pref_refreshRate_value_5</item>
+        <item>@string/pref_refreshRate_value_15</item>
+        <item>@string/pref_refreshRate_value_30</item>
+        <item>@string/pref_refreshRate_value_60</item>
+        <item>@string/pref_refreshRate_value_never</item>
+    </string-array>
+
+
+
+</resources>

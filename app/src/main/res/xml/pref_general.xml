@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="notificationCheck"
+        android:singleLine="true"
+        android:title="@string/pref_notification"/>
+    <MultiSelectListPreference
+        android:defaultValue="@array/pref_notifiedLines_values"
+        android:entries="@array/pref_notifiedLines_options"
+        android:entryValues="@array/pref_notifiedLines_values"
+        android:summary=""
+        android:key="notifiedLines"
+        android:title="@string/pref_notifiedLines"
+        />
+    <ListPreference
+        android:defaultValue="@string/pref_refreshRate_value_5"
+        android:entries="@array/pref_refreshRate_options"
+        android:entryValues="@array/pref_refreshRate_values"
+        android:summary="%s"
+        android:key="refreshRate"
+        android:title="@string/refreshRate"/>
+</PreferenceScreen>
